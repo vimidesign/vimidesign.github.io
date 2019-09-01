@@ -1,1 +1,16 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: ViMi-Design
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  auto_ids: false
+
+page_gen:
+  - index_files: false
+    data: baerlis
+    template: baerli
+    name: friendlyname
+    dir: baerli
+    extension: html
