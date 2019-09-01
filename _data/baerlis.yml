@@ -1,0 +1,45 @@
+- baerli: Candy
+  friendlyname: candy
+  price: 29.95
+  image: beispiel1.webp
+  story: Candys Geschichte (aber alles in einer Zeile - das ist wichtig)
+  added: 2015-08-20
+  categories:
+    - Kuschelig
+    - für Mädchen
+    - Liebesgeschichten
+
+- baerli: Grünie
+  friendlyname: gruenie
+  price: 111.22
+  image: beispiel2.webp
+  story: Grünie Geschichte (aber alles in einer Zeile - das ist wichtig)
+  added: 2015-08-31
+  categories:
+    - Kuschelig
+    - für Jungs
+    - Reduziert
+    - Auftragsbärlis
+
+- baerli: Rosa
+  friendlyname: rosa
+  price: 27.88
+  image: beispiel1.webp
+  story: Rosas Geschichte (aber alles in einer Zeile - das ist wichtig)
+  added: 2014-01-31
+  categories:
+    - für Mädchen
+    - Lederimitat und Tierfellmusterung
+    - für Erwachsene
+
+- baerli: Sanft Grün
+  friendlyname: sanft-gruen
+  price: 20.01
+  image: beispiel2.webp
+  story: Sanft Grün Geschichte (aber alles in einer Zeile - das ist wichtig)
+  added: 2016-07-12
+  categories:
+    - mit Wärmekissen
+    - für Jungs
+    - Außergewöhnlich
+    - Auftragsbärlis
