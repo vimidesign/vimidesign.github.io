@@ -2,9 +2,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{% if page.title %}{{ page.title | escape }} - {% else %}{% endif %}VimiDesign</title>
-	{% if page.title %}
-	<meta property="og:title" content="{{ page.title | escape }}" />{% endif %}
+	<title>sanft-gruen - VimiDesign</title>
+	
+	<meta property="og:title" content="sanft-gruen" />
 	<meta property="og:locale" content="de_AT">
 	<meta property="og:type" content="object">
 	<meta property="og:site_name" content="VimiDesign">
@@ -125,7 +125,48 @@
 
 		<a href="#page" class="scroll-top-button visible"></a>
 
-		{% include header.html %}
+		
+/baerli/sanft-gruen.html
+<div id="site-header-wrapper" class=" " style="height: 98px;">
+	<header id="site-header" class="site-header animated-header mobile-menu-layout-default shrink fixed" role="banner">
+		<div class="container container-fullwidth">
+			<div class="header-main logo-position-left header-layout-fullwidth header-style-4">
+				<div class="site-title">
+					<div class="site-logo" style="width:248px;">
+						<a href="/" rel="home">
+							<span class="logo" style="min-width: 248px;"><img src="/assets/vimi-design-logo.jpg" alt="ViMi Design" style="width: 248px;" class="default"><img src="/assets/vimi-design-logo.jpg" alt="ViMi-Design" style="width: 248px; margin-left: -248px; display: inline;" class="small"></span>
+						</a>
+					</div>
+				</div>
+				<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+					<button class="menu-toggle dl-trigger">Primary Menu<span class="menu-line-1"></span><span class="menu-line-2"></span><span class="menu-line-3"></span></button>
+					<ul id="primary-menu" class="nav-menu styled no-responsive dl-menu">
+						<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-parent megamenu-first-element"><a href="/">Start</a><span class="menu-item-parent-toggle"></span></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page megamenu-first-element current_page_parent current_page_ancestor"><a href="/baerlis">Bärlis</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children"><a href="/vimi-design/">ViMi-Design</a><span class="menu-item-parent-toggle"></span>
+							<ul class="sub-menu styled dl-submenu-disabled">
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/vimi-design/was-ist-vimi-design">Was ist ViMi-Design</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/vimi-design/fuer-babies-kinder">für Babies/Kinder</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/vimi-design/massanfertigungen">Maßanfertigungen</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/vimi-design/geschenkideen">Geschenkideen</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/vimi-design/krabbeldecken">Krabbeldecken</a></li>
+							</ul>
+						</li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children"><a href="/uber-uns/">Über uns</a><span class="menu-item-parent-toggle"></span>
+							<ul class="sub-menu styled dl-submenu-disabled">
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/uber-uns/qualitaet">Qualität</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom megamenu-first-element"><a href="/uber-uns/kontakt">Kontakt</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header><!-- #site-header -->
+</div><!-- #site-header-wrapper -->
+
+
+
 
 		<div id="main" class="site-main">
 
@@ -152,14 +193,14 @@
 															style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 64px; margin: 0px; width: 691px; height: 98px;">
 															<div class="gem-gallery-item active" data-image-id="1">
 																<div class="gem-gallery-item-image">
-																	<a href="/assets/baerlis/{{page.image}}"
+																	<a href="/assets/baerlis/beispiel2.webp"
 																		data-fancybox-group="product-gallery-5d593d2f98e01"
-																		data-full-image-url="/assets/baerlis/{{page.image}}">
+																		data-full-image-url="/assets/baerlis/beispiel2.webp">
 																		<svg width="20" height="10">
 																			<path d="M 0,10 Q 9,9 10,0 Q 11,9 20,10">
 																			</path>
 																		</svg>
-																		<img src="/assets/baerlis/{{page.image}}" alt=""
+																		<img src="/assets/baerlis/beispiel2.webp" alt=""
 																			class="img-responsive">
 																	</a>
 																</div>
@@ -172,13 +213,13 @@
 										</div>
 
 										<div class="single-product-content-right col-sm-7 col-xs-12">
-											<h3 class="product_title light">{{page.baerli}}</h3>
+											<h3 class="product_title light">Sanft Grün</h3>
 											<div class="rating-divider"></div>
 											<p class="price"><span
-													class="woocommerce-Price-amount amount">{{page.price}}&nbsp;<span
+													class="woocommerce-Price-amount amount">20.01&nbsp;<span
 														class="woocommerce-Price-currencySymbol">€</span></span></p>
 											<div class="woocommerce-product-details__short-description">
-												<p>{{page.story}}</p>
+												<p>Sanft Grün Geschichte (aber alles in einer Zeile - das ist wichtig)</p>
 											</div>
 										</div>
 
@@ -200,7 +241,37 @@
 
 		</div><!-- #main -->
 
-		{% include footer.html %}
+		<footer id="footer-nav" class="site-footer">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-3 col-md-push-9">
+				<div id="footer-socials">
+					<div class="socials inline-inside socials-colored">
+						<a href="https://www.facebook.com/vimibaerli/" target="_blank" title="facebook" class="socials-item"><i class="socials-item-icon facebook"></i></a>
+						<a href="https://www.instagram.com/vimibaerlis/" target="_blank" title="instagram" class="socials-item"><i class="socials-item-icon instagram"></i></a>
+						<a href="mailto:vimi@vimidesign.com?subject=Bestellung" title="vimi@vimidesign.com" class="socials-item">vimi@vimidesign.com</a>
+					</div>
+				</div><!-- #footer-socials -->
+			</div>
+
+			<div class="col-md-6">
+				<nav id="footer-navigation" class="site-navigation footer-navigation centered-box" role="navigation">
+					<ul id="footer-menu" class="nav-menu styled clearfix inline-inside">
+						<li id="menu-item-24934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24934"><a href="/uber-uns/kontakt">Kontakt</a></li>
+						<li id="menu-item-26967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26967"><a href="#">Datenschutz</a></li>
+						<li id="menu-item-26965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26965"><a href="#">Impressum</a></li>
+					</ul>
+				</nav>
+			</div>
+
+			<div class="col-md-3 col-md-pull-9">
+			</div>
+
+		</div>
+	</div>
+</footer><!-- #footer-nav -->
+
 	</div><!-- #page -->
 	<p class="footer-info vat-info">Alle Preise inkl. der gesetzlichen MwSt.</p>
 	<!-- Instagram Feed JS -->
