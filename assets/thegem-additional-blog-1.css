@@ -256,13 +256,13 @@ body .vc_grid.vc_grid-owl-theme .vc_grid-owl-dots.vc_grid-radio_dots.vc_grid-owl
 	border-width: 4px;
 }
 .gem-camel-text-devider p{
-	font-family: "Montserrat UltraLight";
+	font-family: 'Gochi Hand';
 	font-size: 36px;
 	font-weight: normal;
 	color: #3c3950 !important;
 }
 .gem-camel-text-devider p strong{
-	font-family: "Montserrat";
+	font-family: 'Gochi Hand';
 	font-weight: bold;
 }
 
@@ -1099,7 +1099,7 @@ body .quickfinder-style-vertical.quickfinder-style-vertical-4 .quickfinder-item.
 }
 .blog-style-multi-author .post-time {
 	color: #fff;
-	font-family: "Montserrat";
+	font-family: 'Gochi Hand';
 	font-size: 19px;
 	font-weight: bold;
 	line-height: 15px;

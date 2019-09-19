@@ -5,7 +5,7 @@
 
 
 /* Popup Google Fonts */
-@import url('//fonts.googleapis.com/css?family=Montserrat:100');
+@import url('//fonts.googleapis.com/css?family=Gochi+Hand');
 
 
 
@@ -14,7 +14,7 @@
 /* Popup Theme 38598: Hallo Box */
 .pum-theme-38598, .pum-theme-hello-box { background-color: rgba( 255, 255, 255, 0.75 ) } 
 .pum-theme-38598 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #2ab3b7; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
-.pum-theme-38598 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-weight: 100; font-size: 32px; line-height: 36px } 
+.pum-theme-38598 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: 'Gochi Hand'; font-weight: 100; font-size: 32px; line-height: 36px } 
 .pum-theme-38598 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit; font-weight: 100 } 
 .pum-theme-38598 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: Times New Roman; font-weight: 100; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
 

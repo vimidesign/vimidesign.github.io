@@ -114,7 +114,7 @@
 .widget_pages > ul > li > a,
 .widget_categories > ul > li > a,
 .widget_product_categories > ul > li > a {
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 }
 
 #primary-menu.no-responsive > li > a,
@@ -156,10 +156,10 @@
 .widget_categories > ul,
 .widget_product_categories > ul,
 .widget_pages > ul {
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 }
 .primary-navigation.responsive li a {
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul li > a,
@@ -212,7 +212,7 @@
 .header-layout-overlay #primary-menu.no-responsive > li li > a,
 .page-additional-menu.header-layout-overlay .nav-menu.no-responsive > li > a,
 .page-additional-menu.header-layout-overlay .nav-menu.no-responsive > li li > a {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .header-layout-overlay #primary-menu.no-responsive > li > a,
@@ -277,7 +277,7 @@ input[type="text"].coupon-code,
 .single-product-content .price,
 .widget_shopping_cart ul li .quantity,
 .widget_shopping_cart .total span.amount {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .styled-subtitle,
@@ -398,7 +398,7 @@ input[type="text"].coupon-code,
 h1,
 .pricing-table-style-8 .pricing-cost,
 .title-h1 {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h1,
@@ -433,7 +433,7 @@ h2,
 .title-h2,
 h3.comment-reply-title,
 .pricing-table-style-6 .pricing-price-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h2,
@@ -486,7 +486,7 @@ h3,
 .woocommerce table.shop_table.order-details tr.order_item td.product-total .amount,
 .gem-dropcap,
 .woocommerce .woocommerce-checkout-one-page #order_review table thead th {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h3,
@@ -529,11 +529,11 @@ h4,
 .gem-gallery-hover-gradient .gem-gallery-item-title,
 .gem-gallery-grid.hover-gradient .gallery-item .overlay .title,
 .gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 @media only screen and (min-width: 992px) and (max-width: 1150px) {
 	.with-sidebar .portfolio.hover-horizontal-sliding .overlay .links .caption .title {
-		font-family: 'Comfortaa';
+		font-family: 'Gochi Hand';
 	}
 }
 
@@ -617,7 +617,7 @@ h5,
 .blog-style-styled_list1 .post-time,
 .gem-teams-phone,
 .woocommerce .woocommerce-checkout.woocommerce-checkout-one-page .shop_table.woocommerce-checkout-payment-total th {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h5,
@@ -691,7 +691,7 @@ h6,
 .diagram-wrapper.style-3 .digram-line-box .skill-title,
 .row .vc_progress_bar .vc_label,
 .pricing-column-top-choice .pricing-column-top-choice-text {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h6,
@@ -738,7 +738,7 @@ h6,
 }
 
 .title-xlarge {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .title-xlarge {
@@ -812,7 +812,7 @@ body .vc_grid-container ul.vc_grid-filter li.vc_grid-filter-item > span,
 .gem-media-grid-2 .vc_gitem-post-data-source-post_title a,
 .woocommerce .woocommerce-checkout-one-page #order_review table thead th,
 .woocommerce .woocommerce-checkout.woocommerce-checkout-one-page .shop_table.woocommerce-checkout-payment-total th {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 h1 .light,
@@ -874,7 +874,7 @@ option,
 .widget_archive li,
 .woocommerce-cart-form.responsive .cart-item .gem-table .shop_table td.product-price,
 .gem-media-grid-2 .vc_gitem-animated-block .vc_gitem-zone-b .vc_gitem-post-data-source-post_excerpt > div {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 body,
@@ -915,7 +915,7 @@ option,
 }
 
 .widget-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .widget-title {
@@ -936,7 +936,7 @@ input[type='submit'],
 .gem-pagination .current,
 .blog-load-more button,
 body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 }
 
 .gem-button,
@@ -949,7 +949,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .gem-button.gem-button-text-weight-thin {
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 }
 
 .gem-button.gem-button-text-weight-thin {
@@ -957,7 +957,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .gem-nivoslider-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gem-nivoslider-title {
@@ -973,7 +973,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .gem-nivoslider-description {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gem-nivoslider-description {
@@ -992,7 +992,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 .portfolio-item .wrap > .caption .title,
 .fancybox-title .slide-info-title,
 .blog.blog-style-masonry article .description .title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .portfolio-item-title,
@@ -1020,7 +1020,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 .portfolio-item .caption .subtitle,
 .fancybox-title .slide-info-summary,
 .blog.blog-style-masonry article .description .summary {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .portfolio-item-description,
@@ -1048,7 +1048,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .quickfinder-item-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .quickfinder-item-title {
@@ -1064,7 +1064,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .quickfinder.quickfinder-title-thin .quickfinder-item-title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .quickfinder.quickfinder-title-thin .quickfinder-item-title {
@@ -1080,7 +1080,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 }
 
 .quickfinder-item-text {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .quickfinder-item-text {
@@ -1098,7 +1098,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 .gem-gallery-hover-zooming-blur .gem-gallery-item-title,
 .gem-gallery-grid .gallery-item .overlay .title,
 .gem-gallery .gem-gallery-caption .gem-gallery-item-title{
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gem-gallery-hover-zooming-blur .gem-gallery-item-title,
@@ -1123,7 +1123,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page a {
 
 .gem-gallery-grid.hover-default .gallery-item .overlay .title,
 .gem-gallery-hover-default .gem-gallery-item .gem-gallery-item-title{
-font-family: 'Comfortaa';
+font-family: 'Gochi Hand';
 }
 
 .gem-gallery-grid.hover-default .gallery-item .overlay .title,
@@ -1146,7 +1146,7 @@ line-height: 31px;
 
 .gallery-description,
 .gem-gallery-item-description {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gallery-description,
@@ -1167,7 +1167,7 @@ line-height: 31px;
 
 .gem-testimonial-text,
 .testimonials-style-1-text {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gem-testimonial-text,
@@ -1199,7 +1199,7 @@ line-height: 31px;
 
 .gem-counter-number,
 .diagram-circle .text div span {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .gem-counter-number,
@@ -1217,12 +1217,12 @@ line-height: 31px;
 
 .widget_shopping_cart_content .quantity,
 .widget_shopping_cart_content .total .amount {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .product-info .product-title.title-h6,
 .products .portfolio-item .wrap > .caption .title {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 .product-info .product-title.title-h6,
@@ -1241,7 +1241,7 @@ line-height: 31px;
 }
 
 .single-product-content .product_title {
-	font-family: 'Montserrat UltraLight';
+	font-family: 'Gochi Hand';
 }
 
 .single-product-content .product_title {
@@ -2193,7 +2193,7 @@ body .quickfinder-item .quickfinder-item-connector,
 
 #primary-navigation.responsive #primary-menu li > a,
 #primary-navigation.responsive #primary-menu li > span.megamenu-column-header > a {
-	font-family: 'Comfortaa';
+	font-family: 'Gochi Hand';
 }
 
 #primary-navigation.responsive #primary-menu li > a,

@@ -53,7 +53,7 @@
 .product-info .product-info-header > div {
 	background: #b6c6c9;
 	border-color: #b6c6c9;
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 	font-weight: 700;
 	font-size: 16px;
 	color: #ffffff;
@@ -199,7 +199,7 @@ body .woocommerce .woocommerce-cart-form .actions .submit-buttons .checkout-butt
 .checkout-steps .checkout-step:before,
 .checkout-steps .checkout-step:after {
 	background: #e9f0ef;
-	font-family: 'Montserrat';
+	font-family: 'Gochi Hand';
 	font-weight: 700;
 	font-size: 14px;
 	color: #99a9b5;
