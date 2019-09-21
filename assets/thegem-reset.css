@@ -1,5 +1,5 @@
 html {
-	font-family: sans-serif;
+	font-family: "Patrick Hand SC";
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
@@ -190,7 +190,7 @@ html {
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Patrick Hand SC";
 	font-size: 14px;
 	line-height: 1.421;
 	color: #333333;

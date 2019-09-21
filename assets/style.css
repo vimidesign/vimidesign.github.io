@@ -5378,7 +5378,7 @@ iframe + .map-locker.disabled {
 }
 .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-panel .vc_tta-panel-title,
 .wpb-js-composer .vc_tta.vc_tta-accordion .vc_tta-panel .vc_tta-panel-title {
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-weight: normal;
 	text-transform: uppercase;
 	font-size: 14px;
@@ -5390,7 +5390,7 @@ iframe + .map-locker.disabled {
 .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-panel.vc_tta-style-modern .vc_tta-panel-title,
 .wpb-js-composer .vc_tta.vc_tta-accordion.vc_tta-style-modern .vc_tta-panel .vc_tta-panel-title,
 .wpb-js-composer .vc_tta.vc_tta-accordion.vc_tta-style-simple_dashed .vc_tta-panel .vc_tta-panel-title {
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-weight: bold;
 }
 .wpb-js-composer .vc_tta.vc_tta-tabs.vc_general .vc_tta-tab > a {
@@ -5412,7 +5412,7 @@ iframe + .map-locker.disabled {
 	padding-bottom: 16px;
 }
 .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tab a {
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: normal;
@@ -5420,7 +5420,7 @@ iframe + .map-locker.disabled {
 .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tab.vc_active > a,
 .wpb-js-composer .vc_tta.vc_tta-tabs.vc_tta-style-outline .vc_tta-tab a,
 .wpb-js-composer .vc_tta.vc_tta-tabs.vc_tta-style-modern .vc_tta-tab a {
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-weight: bold;
 }
 /* Widget */
@@ -8065,7 +8065,7 @@ body .blog {
 .mailchimp-form-3 .yikes-easy-mc-submit-button{
 	border: none;
 	color: #fff;
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-size: 14px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -8180,7 +8180,7 @@ body .blog {
 .agency-sparta-style.yikes-easy-mc-form label.label-inline > input:focus{ outline: none !important; }
 .yikes-mailchimp-container .agency-sparta-style .submit-button-inline-label{ width: 17%; min-width: 235px; }
 .yikes-mailchimp-container .agency-sparta-style .submit-button-inline-label > span { display: none; }
-.yikes-mailchimp-container .agency-sparta-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #212331; color: #fff; height: 45px; border: none; border-radius: 3px; font-family: 'Gochi Hand';  font-weight: 700;  text-transform: uppercase;  padding-left: 50px; position: relative; }
+.yikes-mailchimp-container .agency-sparta-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #212331; color: #fff; height: 45px; border: none; border-radius: 3px; font-family: 'Patrick Hand SC';  font-weight: 700;  text-transform: uppercase;  padding-left: 50px; position: relative; }
 .yikes-mailchimp-container .agency-sparta-style .yikes-easy-mc-submit-button:before{ content: "\e626"; font-family: "thegem-icons"; font-size: 24px; font-weight: normal;  color: #fff; position: absolute; left: 50%; margin-left: -69px; text-align: center; }
 @media(max-width: 1200px){
 	body .agency-sparta-style.yikes-easy-mc-form label.label-inline{ width: 100%; padding-right: 0; }
@@ -8192,7 +8192,7 @@ body .blog {
 .yikes-mailchimp-container .splash-shop-3-style.yikes-easy-mc-form label.label-inline > input:focus{ outline: none !important; }
 .yikes-mailchimp-container .splash-shop-3-style .submit-button-inline-label{width: 155px; min-width: 155px; height: 45px; }
 .yikes-mailchimp-container .splash-shop-3-style .submit-button-inline-label > span { display: none; }
-.yikes-mailchimp-container .splash-shop-3-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #d7b398; color: #fff; border: none; font-family: 'Gochi Hand';  font-weight: 700;  text-transform: uppercase; padding-right: 30px; padding-left: 30px; position: relative; }
+.yikes-mailchimp-container .splash-shop-3-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #d7b398; color: #fff; border: none; font-family: 'Patrick Hand SC';  font-weight: 700;  text-transform: uppercase; padding-right: 30px; padding-left: 30px; position: relative; }
 .yikes-mailchimp-container .splash-shop-3-style button { transition: all 0.3s; -webkit-transition: all 0.3s;}
 .yikes-mailchimp-container .splash-shop-3-style button:hover { background: #212121 !important; color: #fff !important; transition: all 0.3s; -webkit-transition: all 0.3s;}
 @media(max-width: 1200px){
@@ -8205,7 +8205,7 @@ body .blog {
 .yikes-mailchimp-container .splash-shop-4-style.yikes-easy-mc-form label.label-inline > input:focus{ outline: none !important; }
 .yikes-mailchimp-container .splash-shop-4-style .submit-button-inline-label{width: 155px; min-width: 155px; height: 45px; }
 .yikes-mailchimp-container .splash-shop-4-style .submit-button-inline-label > span { display: none; }
-.yikes-mailchimp-container .splash-shop-4-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #f44236; color: #fff; border: none; font-family: 'Gochi Hand';  font-weight: 700;  text-transform: uppercase; padding-right: 30px; padding-left: 30px; position: relative; }
+.yikes-mailchimp-container .splash-shop-4-style .submit-button-inline-label .yikes-easy-mc-submit-button{ background: #f44236; color: #fff; border: none; font-family: 'Patrick Hand SC';  font-weight: 700;  text-transform: uppercase; padding-right: 30px; padding-left: 30px; position: relative; }
 .yikes-mailchimp-container .splash-shop-4-style button { transition: all 0.3s; -webkit-transition: all 0.3s;}
 .yikes-mailchimp-container .splash-shop-4-style button:hover { background: #212121; color: #fff; transition: all 0.3s; -webkit-transition: all 0.3s;}
 @media(max-width: 1200px){
@@ -8234,7 +8234,7 @@ body .blog {
 	background-color: #008aff;
 	border: medium none;
 	border-radius: 10px;
-	font-family: 'Gochi Hand';
+	font-family: 'Patrick Hand SC';
 	font-size: 16px;
 	font-weight: 700;
 	line-height: 26px;
