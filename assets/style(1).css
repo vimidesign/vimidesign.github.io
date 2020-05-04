@@ -1540,3 +1540,7 @@ width: 100% !important;
         echo '<br/><small>' . $item_meta_print . '</small>';
     }
 */
+
+.products .product-info .price .amount.sale {
+    color: red !important;
+}
